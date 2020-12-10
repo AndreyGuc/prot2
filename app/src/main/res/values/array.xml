@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<string-array name="prot">
+    <item>Острые экзогенные отравления</item>
+    <item>Выбор метода анестезии</item>
+    <item>Органы пищеварения</item>
+    <item>Общая хириургия (детское население)</item>
+    <item>Нервная система (детское население)</item>
+    <item>Мочеполовая система (детское население)</item>
+    <item>Система кроветворения</item>
+    <item>Аллергические заболевания</item>
+    <item>Хирургическое лечение повреждений позвоночника</item>
+    <item>Переломы костей скелета</item>
+    <item>ЛОР-органы (детское население)</item>
+    <item>Ортопедо-травматологические больные</item>
+    <item>Тромбоэмболические осложнения при травмах</item>
+    <item>Врожденная косолапость</item>
+    <item>Коленный, плечевой суставы. Эндоскопическое лечение повреждений</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+
+</string-array>
+<string-array name="prot_content">
+        <item>Протоколы диагностики и лечения больных с острыми экзогенными отравлениями
+в палатах интенсивной терапии и реанимации ЦРБ, городских, областных больниц и в центрах по лечению острых отравлений.2004
+</item>
+    <item>ПРОТОКОЛЫ ПРЕДОПЕРАЦИОННОЙ ДИАГНОСТИКИ, МОНИТОРИРОВАНИЯ И ВЫБОРА МЕТОДА АНЕСТЕЗИИ У БОЛЬНЫХ
+В СТАЦИОНАРНЫХ УСЛОВИЯХ. 2004</item>
+    <item>Клинические протоколы диагностики и лечения больных с заболеваниями органов пищеварения. 2005</item>
+    <item>Клинические протоколы диагностики и лечения детей общехирургического профиля. 2005</item>
+    <item>Клинические протоколы диагностики и лечения больных с патологией нервной системы. 2005</item>
+    <item>Клинические протоколы диагностики и лечения детей с патологией мочеполовой системы. 2005</item>
+    <item>Клинические протоколы диагностики и лечения больных с патологией системы кроветворения. 2005</item>
+    <item>Клинические протоколы диагностики и лечения больных с аллергическими заболеваниями. 2005</item>
+    <item>Клинические протоколы диагностики и хирургического лечения больных с повреждениями позвоночника (шейный, грудной, поясничный отделы). 2006
+</item>
+    <item>Клинические протоколы диагностики и лечения больных с переломами костей скелета. 2006</item>
+    <item>Клинические протоколы диагностики и лечения детского населения с болезнями уха, горла, носа. 2006</item>
+    <item>Клинические протоколы диагностики и лечения ортопедо-травматологических больных. 2006</item>
+    <item>Клинические протоколы диагностики и лечения больных с риском развития тромбоэмболических осложнений при травмах костей скелета и декубитальных язв. 2006</item>
+    <item>Клинические протоколы диагностики и хирургического лечения больных с врожденной косолапостью. 2006</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>
+<string-array name="prot_urls">
+    <item>https://drive.google.com/file/d/1ic5KINXL7Eoy0VSFm6GoAgSjIoUvDUse/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/1ic5KINXL7Eoy0VSFm6GoAgSjIoUvDUse/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/1UxBfSqsjJIJXfjThhNNpIm86SpQFuZDI/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/1n7mwDFZCVJo4GrGSsX8FwGLouLLJkWJ7/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/1dZt5LlY9f0OPRP1qqzyrKDa2XY4vp8Od/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/1Uvv7h7GITESwK-DWN8Hqh7Laf7aFIv7e/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/1Ug1AYnI9VutiRoBiPYSJQDu__HQcJBJg/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/1KgllxrM9eosW0zjxNbqC1bkpku8wAotC/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/1A1ci3TrGiu2OIkCUse77e3ExWj1S-Qg1/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/1k6GBtgLy5GuIH4fPuymJWgw6vISODHHq/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/1NN--qyz91llsQRVUlyNBexj_ok0scawX/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/18xDP-9OFdRJFIsu2ENbJiV4WjkV7DzzC/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/19Ak4DaSCeoulFXYM6GOZTnjGzeNOw322/view?usp=sharing</item>
+    <item>https://drive.google.com/file/d/1cac6ebrpMWhSH2wDvjzCJDG0wGwRwIr9/view?usp=sharing</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>
+
+
+
+
+<string-array name="СМП">
+    <item>СМП (взрослое население) </item>
+    <item>СМП (детское население</item>
+</string-array>
+    <string-array name="СМП_content">
+        <item>Клинический протокол оказания скорой (неотложной) медицинской помощи взрослому населению. Приказ МЗРБ №1030 30.09.2010  </item>
+    <item>Клинический протокол оказания скорой медицинской помощи детскому населению. Приказ МЗРБ №90 2007 </item>
+
+</string-array>
+<string-array name="СМП_urls">
+    <item>https://drive.google.com/file/d/1MnDfVhunEtW2HqO483B3aryEx6dX9bOx/view?usp=sharing </item>
+    <item>https://drive.google.com/file/d/1i-P98KBp_Hz97JbuHWG8zhpfHFa7RySI/view?usp=sharing </item>
+
+
+</string-array>
+
+    <string-array name="cardio">
+        <item>СМП (взрослое население) </item>
+
+    </string-array>
+    <string-array name="cardio_content">
+        <item>Клинический протокол оказания скорой (неотложной) медицинской помощи взрослому населению. Приказ МЗРБ №1030 30.09.2010  </item>
+
+
+    </string-array>
+    <string-array name="cardio_urls">
+        <item>https://drive.google.com/file/d/1MnDfVhunEtW2HqO483B3aryEx6dX9bOx/view?usp=sharing </item>
+    </string-array>
+
+    <string-array name="ther">
+        <item>СМП (взрослое население) </item>
+
+    </string-array>
+    <string-array name="ther_content">
+        <item>Клинический протокол оказания скорой (неотложной) медицинской помощи взрослому населению. Приказ МЗРБ №1030 30.09.2010  </item>
+
+
+    </string-array>
+    <string-array name="ther_urls">
+        <item>https://drive.google.com/file/d/1MnDfVhunEtW2HqO483B3aryEx6dX9bOx/view?usp=sharing </item>
+    </string-array>
+
+    <string-array name="nefr">
+        <item>СМП (взрослое население) </item>
+
+    </string-array>
+    <string-array name="nefr_content">
+        <item>Клинический протокол оказания скорой (неотложной) медицинской помощи взрослому населению. Приказ МЗРБ №1030 30.09.2010  </item>
+
+
+    </string-array>
+    <string-array name="nefr_urls">
+        <item>https://drive.google.com/file/d/1MnDfVhunEtW2HqO483B3aryEx6dX9bOx/view?usp=sharing </item>
+    </string-array>
+
+    <string-array name="serg">
+        <item>СМП (взрослое население) </item>
+
+    </string-array>
+    <string-array name="serg_content">
+        <item>Клинический протокол оказания скорой (неотложной) медицинской помощи взрослому населению. Приказ МЗРБ №1030 30.09.2010  </item>
+
+
+    </string-array>
+    <string-array name="serg_urls">
+        <item>https://drive.google.com/file/d/1MnDfVhunEtW2HqO483B3aryEx6dX9bOx/view?usp=sharing </item>
+    </string-array>
+
+    <string-array name="uro">
+        <item>СМП (взрослое население) </item>
+
+    </string-array>
+    <string-array name="uro_content">
+        <item>Клинический протокол оказания скорой (неотложной) медицинской помощи взрослому населению. Приказ МЗРБ №1030 30.09.2010  </item>
+
+
+    </string-array>
+    <string-array name="uro_urls">
+        <item>https://drive.google.com/file/d/1MnDfVhunEtW2HqO483B3aryEx6dX9bOx/view?usp=sharing </item>
+    </string-array>
+
+
+    <string-array name="nevr">
+        <item>СМП (взрослое население) </item>
+
+    </string-array>
+    <string-array name="nevr_content">
+        <item>Клинический протокол оказания скорой (неотложной) медицинской помощи взрослому населению. Приказ МЗРБ №1030 30.09.2010  </item>
+
+
+    </string-array>
+    <string-array name="nevr_urls">
+        <item>https://drive.google.com/file/d/1MnDfVhunEtW2HqO483B3aryEx6dX9bOx/view?usp=sharing </item>
+    </string-array>
+
+    <string-array name="poly">
+        <item>СМП (взрослое население) </item>
+
+    </string-array>
+    <string-array name="poly_content">
+        <item>Клинический протокол оказания скорой (неотложной) медицинской помощи взрослому населению. Приказ МЗРБ №1030 30.09.2010  </item>
+
+
+    </string-array>
+    <string-array name="poly_urls">
+        <item>https://drive.google.com/file/d/1MnDfVhunEtW2HqO483B3aryEx6dX9bOx/view?usp=sharing </item>
+    </string-array>
+
+
+
+
+</resources>

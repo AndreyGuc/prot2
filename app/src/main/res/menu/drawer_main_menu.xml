@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item android:title="Протоколы"
+            android:id="@+id/id_prot"
+            android:icon="@drawable/ic_prot"/>
+
+        <item android:title="@string/ambul"
+        android:id="@+id/id_ambul"
+        android:icon="@drawable/ic_amdul"/>
+
+        <item android:title="@string/cardio"
+            android:id="@+id/id_cardio"
+            android:icon="@drawable/ic_cardio"/>
+
+        <item android:title="@string/therapy"
+            android:id="@+id/id_therapy"
+            android:icon="@drawable/ic_therapy"/>
+
+        <item android:title="@string/nefro"
+            android:id="@+id/id_nefro"
+            android:icon="@drawable/ic_nefro"/>
+
+        <item android:title="@string/serg"
+            android:id="@+id/id_serg"
+            android:icon="@drawable/ic_serg"/>
+
+        <item android:title="@string/uro"
+            android:id="@+id/id_uro"
+            android:icon="@drawable/ic_uro"/>
+
+        <item android:title="@string/neuro"
+            android:id="@+id/id_neuro"
+            android:icon="@drawable/ic_neuro"/>
+
+        <item android:title="@string/poly"
+            android:id="@+id/id_poly"
+            android:icon="@drawable/ic_poly"/>
+    </group>
+
+</menu>

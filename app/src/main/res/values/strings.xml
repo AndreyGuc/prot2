@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TP103</string>
+    <string name="cardio">Кардиология</string>
+    <string name="therapy">Терапия</string>
+    <string name="nefro">Нефрология</string>
+    <string name="ambul">СМП</string>
+    <string name="serg">Хирургия</string>
+    <string name="uro">Урология</string>
+    <string name="neuro">Неврология</string>
+    <string name="poly">Поликлиника</string>
+    <string name="search">Search</string>
+    <string name="app_label">app_label</string>
+    <string name="search_hint">search_hint</string>
+    <string name="search_title">search_title</string>
+
+
+</resources>
